@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "none",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ],
+    "git.autofetch": true,
+    "editor.guides.bracketPairs": true,
+    "editor.autoClosingQuotes": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "vscode-pets.petSize": "large",
+    "vscode-pets.petColor": "yellow",
+    "vscode-pets.position": "explorer",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.formatOnType": true
+}
