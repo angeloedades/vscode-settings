@@ -3,10 +3,6 @@
     "editor.formatOnSave": true,
     "editor.renderWhitespace": "none",
     "python.formatting.provider": "black",
-    "python.formatting.blackArgs": [
-        "--line-length",
-        "79"
-    ],
     "git.autofetch": true,
     "editor.guides.bracketPairs": true,
     "editor.autoClosingQuotes": "never",
@@ -18,5 +14,6 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "black-formatter.showNotifications": "always"
 }
